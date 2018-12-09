@@ -1,0 +1,16 @@
+{
+  "name": "nextjs-sql",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "isomorphic-fetch": "^2.2.1",
+    "next": "^7.0.2",
+    "react": "^16.7.0-alpha.2",
+    "react-dom": "^16.7.0-alpha.2",
+    "sequelize": "^4.41.2",
+    "sqlite3": "^4.0.4"
+  }
+}
